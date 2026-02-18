@@ -22,4 +22,7 @@ zoom_out = cv2.resize(image, None, fx=0.5, fy=0.5)
 print("Zoom Out Image")
 cv2_imshow(zoom_out)
 OUTPUT:
-<img width="755" height="542" alt="image" src="https://github.com/user-attachments/assets/b5376b86-857f-4d6b-866c-0179553b0a32" />
+<img width="1359" height="506" alt="Screenshot 2026-02-18 101612" src="https://github.com/user-attachments/assets/b5a4a3e2-8b8f-49c0-88e7-59a2e7e411f6" />
+<img width="1027" height="534" alt="Screenshot 2026-02-18 101602" src="https://github.com/user-attachments/assets/c81fe494-d794-4c46-ba7d-0a90d52c16b3" />
+<img width="1329" height="493" alt="Screenshot 2026-02-18 101549" src="https://github.com/user-attachments/assets/a25474ed-01bd-4994-b6f3-0e2a6e914726" />
+
